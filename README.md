@@ -25,7 +25,4 @@ npm node sever
 # 技术栈
 vue+vuex+nodeJS+MySQL+museUI
 
-# git项目映射地址
-https://boa182.github.io/vueProject_zhi2_app/index.html
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
